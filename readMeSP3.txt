@@ -1,3 +1,7 @@
+repository:
+https://github.com/farhoudkhf/SP3Coursework.git
+
+
 The coursework portfolio
 The portfolio consists of:
 1. weekly programming exercises of which you need to submit 70% of them,
